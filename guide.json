@@ -1,0 +1,378 @@
+{
+  "version": "1.0",
+  "destination": "Lanzarote",
+  "updated": "2026-11-01",
+  "intro": "Explore Lanzarote’s volcanic landscapes, beaches, whitewashed villages and coastal resorts. Plan days out and keep your holiday photos, favourite places and memorable visits privately on your device.",
+  "areas": [
+    {
+      "name": "Puerto del Carmen",
+      "description": "Popular south-east resort with several beaches, seafront restaurants and a long promenade."
+    },
+    {
+      "name": "Playa Blanca",
+      "description": "Southern resort with a marina, beaches, waterfront dining and ferries to Fuerteventura."
+    },
+    {
+      "name": "Costa Teguise",
+      "description": "East-coast resort with beaches, shops, watersports and family facilities."
+    },
+    {
+      "name": "Arrecife",
+      "description": "Island capital with a harbour, local shops and the Charco de San Ginés lagoon."
+    },
+    {
+      "name": "Teguise",
+      "description": "Historic inland town known for traditional architecture and its Sunday market."
+    },
+    {
+      "name": "Haría",
+      "description": "Green northern valley and village with palms and scenic drives."
+    },
+    {
+      "name": "Yaiza",
+      "description": "Whitewashed village near the volcanic landscapes of the south-west."
+    },
+    {
+      "name": "Órzola",
+      "description": "Northern fishing village and ferry departure point for La Graciosa."
+    }
+  ],
+  "attractions": [
+    {
+      "name": "Timanfaya National Park",
+      "description": "Spectacular volcanic scenery and guided visitor experiences. Access and tour arrangements may change; check official information."
+    },
+    {
+      "name": "Jameos del Agua",
+      "description": "Art, architecture and a volcanic cave setting created by César Manrique; check ticket availability."
+    },
+    {
+      "name": "Cueva de los Verdes",
+      "description": "Guided visit through a volcanic lava tube; book ahead where required."
+    },
+    {
+      "name": "Mirador del Río",
+      "description": "Northern viewpoint with views over La Graciosa, designed by César Manrique."
+    },
+    {
+      "name": "Jardín de Cactus",
+      "description": "Cactus garden in a former quarry near Guatiza."
+    },
+    {
+      "name": "Fundación César Manrique",
+      "description": "Art and architecture in the artist’s former home near Tahíche."
+    },
+    {
+      "name": "Castillo de San José",
+      "description": "Historic fortress in Arrecife housing an international contemporary art museum."
+    },
+    {
+      "name": "Los Hervideros",
+      "description": "Coastal volcanic rock formations; observe the sea from designated safe paths."
+    }
+  ],
+  "beaches": [
+    {
+      "name": "Playa Grande, Puerto del Carmen",
+      "description": "Long sandy beach near the main resort promenade; check beach flags."
+    },
+    {
+      "name": "Playa de los Pocillos",
+      "description": "Broad sandy beach in Puerto del Carmen, often exposed to wind."
+    },
+    {
+      "name": "Playa Blanca",
+      "description": "Central resort beach with nearby cafés and amenities."
+    },
+    {
+      "name": "Playa Dorada",
+      "description": "Sheltered-looking bay near Playa Blanca; conditions can still change."
+    },
+    {
+      "name": "Playa de Papagayo",
+      "description": "Scenic coves in the south; access roads and facilities may be limited."
+    },
+    {
+      "name": "Playa de las Cucharas",
+      "description": "Costa Teguise beach popular for watersports; check wind and sea conditions."
+    },
+    {
+      "name": "Playa de Famara",
+      "description": "Long, dramatic beach with strong surf and currents; take particular care and follow safety advice."
+    },
+    {
+      "name": "Playa del Reducto",
+      "description": "City beach in Arrecife with a promenade and nearby services."
+    }
+  ],
+  "markets": [
+    {
+      "name": "Teguise Sunday market",
+      "description": "Well-known market in the historic town; check current day, hours and transport."
+    },
+    {
+      "name": "Marina Rubicón market",
+      "description": "Market stalls around the Playa Blanca marina on scheduled days; check locally."
+    },
+    {
+      "name": "Haría craft market",
+      "description": "Smaller market featuring local crafts; check operating days."
+    },
+    {
+      "name": "Arrecife shopping streets",
+      "description": "Local shops and cafés around the capital’s centre and waterfront."
+    },
+    {
+      "name": "Biosfera Plaza, Puerto del Carmen",
+      "description": "Shopping centre with stores and dining; check opening hours."
+    }
+  ],
+  "nightlife": [
+    {
+      "name": "Puerto del Carmen seafront",
+      "description": "Restaurants, music venues and bars around the resort; check opening times."
+    },
+    {
+      "name": "Playa Blanca marina evenings",
+      "description": "Waterfront restaurants and relaxed evening walks around Marina Rubicón."
+    },
+    {
+      "name": "Costa Teguise centre",
+      "description": "Bars and restaurants around the main resort streets and squares."
+    },
+    {
+      "name": "Arrecife waterfront",
+      "description": "Evening cafés and restaurants near Charco de San Ginés."
+    },
+    {
+      "name": "Sunset coastal strolls",
+      "description": "Enjoy resort promenades after dark; use well-lit routes and follow local advice."
+    }
+  ],
+  "family": [
+    {
+      "name": "Rancho Texas Lanzarote Park",
+      "description": "Animal encounters and family entertainment near Puerto del Carmen; check schedules and suitability."
+    },
+    {
+      "name": "Aqualava Waterpark",
+      "description": "Waterpark in Playa Blanca; check opening times and height restrictions."
+    },
+    {
+      "name": "Aquapark Costa Teguise",
+      "description": "Waterpark with slides and family activities; check seasonal opening."
+    },
+    {
+      "name": "Jameos del Agua",
+      "description": "Distinctive volcanic setting that may appeal to older children; check accessibility."
+    },
+    {
+      "name": "Submarine Safari, Puerto Calero",
+      "description": "Underwater sightseeing excursion; check availability, age restrictions and sea conditions."
+    },
+    {
+      "name": "Family beach day",
+      "description": "Choose a supervised beach where possible and follow local swimming flags."
+    }
+  ],
+  "dining": [
+    {
+      "name": "Puerto del Carmen promenade",
+      "description": "Wide choice of cafés, tapas and international restaurants."
+    },
+    {
+      "name": "Playa Blanca waterfront",
+      "description": "Restaurants and cafés near the harbour and marina."
+    },
+    {
+      "name": "Costa Teguise centre",
+      "description": "Family dining and cafés around the resort squares."
+    },
+    {
+      "name": "Arrecife – Charco de San Ginés",
+      "description": "Lagoon-side restaurants and local food options."
+    },
+    {
+      "name": "Teguise old town",
+      "description": "Small cafés and restaurants in a historic setting."
+    },
+    {
+      "name": "Canarian specialities",
+      "description": "Look for papas arrugadas with mojo, grilled fish and local cheeses; check dietary needs."
+    }
+  ],
+  "daytrips": [
+    {
+      "name": "Timanfaya volcanic landscapes",
+      "description": "A memorable excursion through volcanic scenery; check park access and tour arrangements."
+    },
+    {
+      "name": "North Lanzarote loop",
+      "description": "Combine Jameos del Agua, Cueva de los Verdes and Mirador del Río; allow time for ticketed visits."
+    },
+    {
+      "name": "La Graciosa island",
+      "description": "Take a ferry from Órzola; check sailing schedules and weather before travelling."
+    },
+    {
+      "name": "Teguise and Haría",
+      "description": "Visit traditional towns, markets and inland scenery."
+    },
+    {
+      "name": "El Golfo and Los Hervideros",
+      "description": "Explore the green lagoon viewpoint and dramatic coastline; remain on marked paths."
+    },
+    {
+      "name": "Fuerteventura by ferry",
+      "description": "Day trip from Playa Blanca to Corralejo; check ferry times and ID requirements."
+    },
+    {
+      "name": "La Geria wine region",
+      "description": "Discover distinctive volcanic vineyards; arrange safe transport if tasting wine."
+    }
+  ],
+  "transport": [
+    {
+      "name": "Intercity buses",
+      "description": "Public buses connect major towns and resorts; check IntercityBus Lanzarote for current routes and fares."
+    },
+    {
+      "name": "Lanzarote Airport (ACE)",
+      "description": "Airport near Arrecife; confirm transfers and taxi fares before travel."
+    },
+    {
+      "name": "Taxis",
+      "description": "Use licensed taxis and confirm fares or meters as appropriate."
+    },
+    {
+      "name": "Car hire",
+      "description": "Useful for remote viewpoints; check insurance, road conditions and parking rules."
+    },
+    {
+      "name": "Órzola–La Graciosa ferry",
+      "description": "Passenger ferries connect the north of Lanzarote with La Graciosa; services depend on weather."
+    },
+    {
+      "name": "Playa Blanca–Corralejo ferry",
+      "description": "Ferries connect Lanzarote and Fuerteventura; confirm times and vehicle arrangements."
+    },
+    {
+      "name": "Walking and cycling",
+      "description": "Carry water and sun protection; exposed volcanic terrain can be hot and windy."
+    }
+  ],
+  "useful": [
+    {
+      "name": "Emergency services",
+      "description": "Call 112 for emergencies in Spain and the Canary Islands."
+    },
+    {
+      "name": "Currency",
+      "description": "Euro (€). Check card fees and exchange rates with your provider."
+    },
+    {
+      "name": "Time zone",
+      "description": "Lanzarote follows Canary Islands time, normally the same as the UK."
+    },
+    {
+      "name": "Sun and wind",
+      "description": "Use sun protection, carry water and check local wind and sea conditions."
+    },
+    {
+      "name": "Healthcare and insurance",
+      "description": "Check travel insurance and UK GHIC/EHIC guidance before travelling."
+    },
+    {
+      "name": "Accessibility",
+      "description": "Check steps, uneven volcanic surfaces and venue accessibility before visiting."
+    },
+    {
+      "name": "Live details",
+      "description": "Opening times, ticket prices, bus routes and ferry schedules can change; check official sources."
+    }
+  ],
+  "links": [
+    {
+      "name": "UK travel advice for Spain",
+      "url": "https://www.gov.uk/foreign-travel-advice/spain"
+    },
+    {
+      "name": "Lanzarote official tourism",
+      "url": "https://turismolanzarote.com/"
+    },
+    {
+      "name": "CACT Lanzarote visitor centres",
+      "url": "https://cactlanzarote.com/"
+    },
+    {
+      "name": "Lanzarote intercity buses",
+      "url": "https://arrecifebus.com/"
+    },
+    {
+      "name": "Spain emergency number 112",
+      "url": "https://www.112canarias.com/"
+    }
+  ],
+  "mapPlaces": [
+    {
+      "name": "Puerto del Carmen",
+      "description": "Main south-east resort",
+      "lat": 28.922,
+      "lon": -13.668
+    },
+    {
+      "name": "Playa Blanca",
+      "description": "Southern resort",
+      "lat": 28.865,
+      "lon": -13.828
+    },
+    {
+      "name": "Costa Teguise",
+      "description": "East-coast resort",
+      "lat": 28.999,
+      "lon": -13.489
+    },
+    {
+      "name": "Arrecife",
+      "description": "Island capital",
+      "lat": 28.963,
+      "lon": -13.547
+    },
+    {
+      "name": "Timanfaya National Park",
+      "description": "Volcanic national park",
+      "lat": 29.0,
+      "lon": -13.75
+    },
+    {
+      "name": "Jameos del Agua",
+      "description": "Volcanic cave attraction",
+      "lat": 29.158,
+      "lon": -13.43
+    },
+    {
+      "name": "Mirador del Río",
+      "description": "Northern viewpoint",
+      "lat": 29.214,
+      "lon": -13.482
+    },
+    {
+      "name": "Teguise",
+      "description": "Historic town",
+      "lat": 29.061,
+      "lon": -13.561
+    },
+    {
+      "name": "Órzola",
+      "description": "La Graciosa ferry port",
+      "lat": 29.223,
+      "lon": -13.452
+    }
+  ],
+  "advert": {
+    "enabled": false,
+    "image": "adverts/advert.jpg",
+    "link": "",
+    "alt": "Destination advertisement"
+  }
+}
