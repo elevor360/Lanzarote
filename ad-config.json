@@ -1,0 +1,6 @@
+{
+  "feedUrl": "advertising/adverts.json",
+  "appId": "lanzarote-companion",
+  "group": "holiday",
+  "refreshMinutes": 30
+}

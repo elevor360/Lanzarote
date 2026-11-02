@@ -1,0 +1,9 @@
+Lanzarote Holiday Companion V2 — Universal Advertising Manager V1 support
+
+Upload all files and folders to the existing Lanzarote GitHub repository.
+The sample banner appears under the heading.
+Use Advertising Manager V1 to export adverts.json and associated image files.
+Replace advertising/adverts.json and upload images into advertising/images/.
+The sample advert links to https://elevor360d.co.uk/.
+The existing guide, saved plans, photos and offline functions remain in place.
+Test on your device after uploading.
